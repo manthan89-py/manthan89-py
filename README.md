@@ -22,4 +22,26 @@
 <p align="left">
   Python &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Dart 
   </p>
+  
+  ### Framework
+<p align="left">
+  <a href="https://www.tensorflow.org/">
+    <img src="Images/tensorflow-icon.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://pytorch.org/">
+    <img src="Images/pytorch-icon.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://numpy.org">
+    <img src="Images/numpy-icon.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://pandas.pydata.org/">
+    <img src="360px-Pandas_mark.svg.png" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
+</p>
+<p align="left">
+  Tensorflow &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp PyTorch &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Numpy &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Pandas
+  </p>
 
