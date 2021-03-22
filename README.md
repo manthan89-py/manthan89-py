@@ -5,38 +5,49 @@
 - 🌱 I’m currently learning Artifical Intelligence and Deep learning.
 - 🤔 I’m looking for help with AI , DL, ML, CV.
 - 💬 Ask me about Machine Learning , Deep learning Basics.
-- 📫 How to reach me: https://manthan-bhikadiya.wixsite.com/profile
-- 🖋 Medium Blogs : https://manthan-bhikadiya.medium.com
 
 ## Tools and Technology
+<br>
 ### Languages
-<p align="left">
-  <a href="https://www.python.org/">
-    <img src="Images/python-icon.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://dart.dev">
-    <img src="Images/dart.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a>
-</p>
-  <br>
+- Python
+- Dart
 
+<br>
 ### Framework
-<p align="left">
-  <a href="https://www.tensorflow.org/">
-    <img src="Images/tensorflow-icon.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://pytorch.org/">
-    <img src="Images/pytorch-icon.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://numpy.org">
-    <img src="Images/numpy-icon.svg"  alt="" style="vertical-align:top margin:6px 4px">
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://scikit-learn.org/">
-    <img src="Images/scikit-learn.svg"  width="200" height="200" alt="" style="vertical-align:top margin:6px 4px">
-  </a>
-</p>
+- Tensorflow
+- Pandas
+- PyTorch
+- Keras
+- Numpy
+- Matplotlib
+- Seaborn
+- Spacy
+- NLTK
+- OpenCV
+- Scikit Learn
+- Flutter
+- BeautifulSoup
+<br>
+
+### Tools
+- Visual Studio Code
+- Jupyter Notebbok
+- Google Colab
+- Paperspace Console
+- PyCharm
+<br>
+
+# Browser
+- Brave
+- Chrome
+<br>
+
+# Connect with me
+- Portfolio : https://manthan-bhikadiya.wixsite.com/profile
+- Medium    : https://manthan-bhikadiya.medium.com
+- Linkedin  : https://www.linkedin.com/in/manthanbhikadiya
+- Instagram : https://www.instagram.com/manthan.bhikadiya
+
+
+
 
