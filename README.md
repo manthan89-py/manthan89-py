@@ -19,10 +19,8 @@
     <img src="Images/dart.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
-<p align="left">
-  Python &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Dart 
-  </p>
-  
+  <\n>
+  <\n>
   ### Framework
 <p align="left">
   <a href="https://www.tensorflow.org/">
@@ -41,7 +39,4 @@
     <img src="360px-Pandas_mark.svg.png" alt="" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
-<p align="left">
-  Tensorflow &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp PyTorch &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Numpy &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Pandas
-  </p>
 
