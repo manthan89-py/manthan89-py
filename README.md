@@ -35,8 +35,8 @@
     <img src="Images/numpy-icon.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://pandas.pydata.org/">
-    <img src="Images/pandas_white2.svg" alt="" style="vertical-align:top margin:6px 4px height:10 width:10">
+  <a href="https://scikit-learn.org/">
+    <img src="Images/scikit-learn.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
 
