@@ -14,10 +14,10 @@
 - Instagram ☞: https://www.instagram.com/manthan.bhikadiya <br>
 
 ## NOTE
-If You Like Any of My Repo. Give It ⭐. It Will Motivate Me. <br>
-Please Raise ✋ Issues If Any Have. <br>
-You Can Follow ✅ Me So That You Will Get Informed About My Projects. <br>
-Thank You Very Much ❤️ For Visiting My Profile.
+➜ If You Like Any of My Repo. Give It ⭐. It Will Motivate Me. <br>
+➜ Please Raise ✋ Issues If Any Have. <br>
+➜ You Can Follow ✅ Me So That You Will Get Informed About My Projects. <br>
+➜ Thank You Very Much ❤️ For Visiting My Profile.
 
 
 
