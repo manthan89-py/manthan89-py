@@ -36,7 +36,7 @@
   </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://pandas.pydata.org/">
-    <img src="360px-Pandas_mark.svg.png" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="pandas.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
 
