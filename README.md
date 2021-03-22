@@ -20,8 +20,8 @@
   </a>
 </p>
 <p align="left">
-  <h3> Python </h3>
+  <p> Python </p>
   &nbsp&nbsp&nbsp&nbsp
-  <h3> Dart </h3>
+  <p> Dart </p>
   </p>
 
