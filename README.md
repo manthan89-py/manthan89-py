@@ -36,7 +36,7 @@
   </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://scikit-learn.org/">
-    <img src="Images/scikit-learn.svg" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="Images/scikit-learn.svg"  width="10" height="10" alt="" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
 
