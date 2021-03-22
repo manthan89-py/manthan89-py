@@ -14,11 +14,11 @@
 - Instagram ☞: https://www.instagram.com/manthan.bhikadiya <br>
 
 
-## Github Repo Stats 
+## Github Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
-## NOTE
+## NOTE 🔴
 ➜ If You Like Any of My Repo. Give It ⭐. It Will Motivate Me. <br>
 ➜ Please Raise ✋ Issues If Any Have. <br>
 ➜ You Can Follow ✅ Me So That You Will Get Informed About My Projects. <br>
