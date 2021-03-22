@@ -32,11 +32,11 @@
   </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://numpy.org">
-    <img src="Images/numpy-icon.svg" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="Images/numpy-icon.svg"  alt="" style="vertical-align:top margin:6px 4px">
   </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://scikit-learn.org/">
-    <img src="Images/scikit-learn.svg"  width="175" height="175" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="Images/scikit-learn.svg"  width="200" height="200" alt="" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
 
