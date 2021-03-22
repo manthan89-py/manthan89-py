@@ -7,10 +7,10 @@
 - 💬 Ask me about Machine Learning , Deep learning Basics.
 
 ## Connect with me
-Portfolio : https://manthan-bhikadiya.wixsite.com/profile <br>
-Medium    : https://manthan-bhikadiya.medium.com <br>
-Linkedin  : https://www.linkedin.com/in/manthanbhikadiya <br>
-Instagram : https://www.instagram.com/manthan.bhikadiya <br>
+Portfolio ✅ : https://manthan-bhikadiya.wixsite.com/profile <br>
+Medium    ✅: https://manthan-bhikadiya.medium.com <br>
+Linkedin  ✅: https://www.linkedin.com/in/manthanbhikadiya <br>
+Instagram ✅: https://www.instagram.com/manthan.bhikadiya <br>
 
 
 
