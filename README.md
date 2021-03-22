@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on Data Science, Deep learning, Machine learning and Computer Vision
 - 🌱 I’m currently learning Artifical Intelligence and Deep learning.
 - 🤔 I’m looking for help with AI , DL, ML, CV.
-- 💬 Ask me about Machine Learning , Deep learning Basics.
-- 🌟 In My Github You can Find Projects Related to Machine learning and Deep learning. 
+- 💬 Ask Me About Machine Learning , Deep learning Basics.
+- 🌟 In My Github You Can Find Projects Related to Machine learning and Deep learning. 
 
 ## Connect with me 🤝
 - Portfolio ☞: https://manthan-bhikadiya.wixsite.com/profile <br>
