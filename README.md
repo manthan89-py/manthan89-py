@@ -7,7 +7,7 @@
 - 💬 Ask me about Machine Learning , Deep learning Basics.
 
 ## Tools and Technology
-<br>
+
 ### Languages
 - Python
 - Dart
@@ -26,7 +26,6 @@
 - Scikit Learn
 - Flutter
 - BeautifulSoup
-<br>
 
 ### Tools
 - Visual Studio Code
@@ -34,14 +33,12 @@
 - Google Colab
 - Paperspace Console
 - PyCharm
-<br>
 
-# Browser
+### Browser
 - Brave
 - Chrome
-<br>
 
-# Connect with me
+### Connect with me
 - Portfolio : https://manthan-bhikadiya.wixsite.com/profile
 - Medium    : https://manthan-bhikadiya.medium.com
 - Linkedin  : https://www.linkedin.com/in/manthanbhikadiya
