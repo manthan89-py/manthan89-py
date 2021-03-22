@@ -19,4 +19,9 @@
     <img src="Images/dart.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
+<p align="left">
+  <h3> Python </h3>
+  &nbsp&nbsp&nbsp&nbsp
+  <h3> Dart </h3>
+  </p>
 
