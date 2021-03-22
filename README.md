@@ -13,7 +13,6 @@
 <p align="left">
   <a href="https://www.python.org/">
     <img src="Images/python-icon.svg" alt="" style="vertical-align:top margin:6px 4px">
-    Python
   </a>
 </p>
 
