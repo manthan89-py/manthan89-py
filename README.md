@@ -12,7 +12,6 @@
 - Python
 - Dart
 
-<br>
 ### Framework
 - Tensorflow
 - Pandas
