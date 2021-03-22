@@ -13,6 +13,9 @@
 - Linkedin  ☞: https://www.linkedin.com/in/manthanbhikadiya <br>
 - Instagram ☞: https://www.instagram.com/manthan.bhikadiya <br>
 
+## Github Repo Stats 
+<img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 ## NOTE
 ➜ If You Like Any of My Repo. Give It ⭐. It Will Motivate Me. <br>
 ➜ Please Raise ✋ Issues If Any Have. <br>
