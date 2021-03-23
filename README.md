@@ -78,8 +78,8 @@
 ### Connect with Me
 <table>
   <tr>
-    <th><img src="Images/manthan logo.png"  height="64" width="64"></th>
-    <th><img src="Images/gmail.png"  height="64" width="64"></th>
+    <th><img src="Images/manthan logo.jpg"  height="64" width="64"></th>
+    <th><img src="Images/Gmail-Logo..svg"  height="64" width="64"></th>
     <th><img src="Images/linkedin-tile.svg"  height="64" width="64"></th>
     <th><img src="Images/medium.svg"  height="64" width="64"></th>
     <th><img src="Images/instagram.png"  height="64" width="64"></th>
