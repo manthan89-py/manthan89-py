@@ -1,7 +1,7 @@
 # Hello 👋 Developers 🧠
 ## Welcome 🤝 to My Github Profile 🎆🔥
 
-- 🔭 I’m currently working on Data Science, Deep learning, Machine learning and Computer Vision
+- 🔭 I’m currently working on <b>Data Science, Deep learning, Machine learning</b> and <b>Computer Vision.</b>
 - 🌱 I’m currently learning Artifical Intelligence and Deep learning.
 - 🤔 I’m looking for help with AI , DL, ML, CV.
 - 💬 Ask Me About Machine Learning , Deep learning Basics.
