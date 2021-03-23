@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Times New Roman', Times, serif;">Hello 👋 Developers 🧠</h1>
+# Hello 👋 Developers 🧠
 ## Welcome 🤝 to My Github Profile 🎆🔥
 
 - 🔭 I’m currently working on <b>Data Science, Deep learning, Machine learning</b> and <b>Computer Vision.</b>
