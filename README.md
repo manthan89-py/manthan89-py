@@ -16,7 +16,7 @@
 ## Tools and Technology
 
 ### Languages
-<table border='0'>
+<table>
   <tr>
     <th><img src="Images/python-icon.svg"></th>
     <th><img src="Images/dart.svg"></th> 
@@ -24,6 +24,18 @@
   <tr>
     <th>Python</th>
     <th>Dart</th> 
+  </tr>
+</table>
+
+### Frameworks
+<table>
+  <tr>
+    <th><img src="Images/tensorflow-icon.svg"></th>
+    <th><img src="Images/pytorch-icon.svg"></th> 
+  </tr>
+  <tr>
+    <th>Tensorflow</th>
+    <th>PyTorch</th> 
   </tr>
 </table>
 
