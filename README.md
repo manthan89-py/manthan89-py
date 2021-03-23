@@ -32,10 +32,12 @@
   <tr>
     <th><img src="Images/tensorflow-icon.svg"></th>
     <th><img src="Images/pytorch-icon.svg"></th> 
+     <th><img src="Images/pandas_white2.svg"></th> 
   </tr>
   <tr>
     <th>Tensorflow</th>
-    <th>PyTorch</th> 
+    <th>PyTorch</th>
+    <th>Pandas</th>
   </tr>
 </table>
 
