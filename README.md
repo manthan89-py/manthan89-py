@@ -13,6 +13,17 @@
 - Linkedin  ☞: https://www.linkedin.com/in/manthanbhikadiya <br>
 - Instagram ☞: https://www.instagram.com/manthan.bhikadiya <br>
 
+## Tools and Technology
+
+### Languages
+<table style="width:100%">
+  <tr>
+    <th><img src="Images/python-icon.svg"></th>
+    <th><img src="Images/dart.svg"></th> 
+    <th>Age</th>
+  </tr>
+</table>
+
 
 ## Github Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
