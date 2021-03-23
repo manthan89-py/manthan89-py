@@ -16,11 +16,10 @@
 ## Tools and Technology
 
 ### Languages
-<table style="width:100%">
+<table >
   <tr>
     <th><img src="Images/python-icon.svg"></th>
     <th><img src="Images/dart.svg"></th> 
-    <th>Age</th>
   </tr>
 </table>
 
