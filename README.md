@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-## Tools & IDE
+### Tools & IDE
 <table>
   <tr>
     <th><img src="Images/jupyter-icon.svg" height="64" width="64"></th>
@@ -61,6 +61,8 @@
      <th><img src="Images/visual-studio.png" height="64" width="64"></th>
     <th><img src="Images/tableau.svg" height="64" width="64"></th>
     <th><img src="Images/google-colab.png" height="64" width="64"></th>
+    <th><img src="Images/anaconda.png" height="64" width="64"></th>
+    <th><img src="Images/paperspace.png" height="64" width="64"></th>
   </tr>
   <tr>
     <th>Jupyter</th>
@@ -68,6 +70,8 @@
     <th>Visual Studio</th>
     <th>Tableau</th>
     <th>Google Colab</th>
+    <th>Anaconda</th>
+    <th>Paperspace</th>
   </tr>
 </table>
 
