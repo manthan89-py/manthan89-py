@@ -53,6 +53,24 @@
   </tr>
 </table>
 
+## Tools & IDE
+<table>
+  <tr>
+    <th><img src="Images/jupyter-icon.svg" height="64" width="64"></th>
+    <th><img src="Images/pycharm.svg" height="64" width="64"></th> 
+     <th><img src="Images/visualstudio_code.svg" height="64" width="64"></th>
+    <th><img src="Images/tableau.svg" height="64" width="64"></th>
+    <th><img src="Images/google-colab.png" height="64" width="64"></th>
+  </tr>
+  <tr>
+    <th>Jupyter</th>
+    <th>Pycharm</th>
+    <th>Visual Studio Code</th>
+    <th>Tableau</th>
+    <th>Google Colab</th>
+  </tr>
+</table>
+
 
 ## Github Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
