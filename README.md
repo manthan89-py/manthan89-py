@@ -21,6 +21,10 @@
     <th><img src="Images/python-icon.svg"></th>
     <th><img src="Images/dart.svg"></th> 
   </tr>
+  <tr>
+    <th>Python</th>
+    <th>Dart</th> 
+  </tr>
 </table>
 
 
