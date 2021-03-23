@@ -56,7 +56,7 @@
     <th><a href="https://www.tableau.com/"><img src="Images/tableau.svg" height="64" width="64"></a></th>
     <th><a href="https://colab.research.google.com/"><img src="Images/google-colab.png" height="64" width="64"></a></th>
     <th><a href="https://www.anaconda.com/"><img src="Images/anaconda.png" height="64" width="64"></a></th>
-    <th><a href="https://www.paperspace.com/"><img src="Images/paperspace.png" height="64" width="64"></a></th>
+    <th><a href="https://www.paperspace.com/"><img src="Images/paperspace2.jpg" height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Jupyter</th>
