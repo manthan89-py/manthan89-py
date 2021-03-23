@@ -10,9 +10,16 @@
 ## Tools and Technology
 
 ### Languages ⭐
-<a href="https://www.python.org/"><img src="Images/python-icon.svg"></a> | <a href="https://dart.dev/"><img src="Images/dart.svg"></a>
-  --|--
-  Python|Dart
+<table>
+  <tr>
+    <th><a href="https://www.python.org/"><img src="Images/python-icon.svg"></a></th>
+    <th><a href="https://dart.dev/"><img src="Images/dart.svg"></a></th> 
+  </tr>
+  <tr>
+    <th>Python</th>
+    <th>Dart</th> 
+  </tr>
+</table><br>
 
 ### Frameworks ⭐
 <table>
