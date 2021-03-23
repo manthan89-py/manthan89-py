@@ -78,14 +78,18 @@
 ### Connect with Me
 <table>
   <tr>
-    <th><img src="Images/email_me.svg"></th>
-    <th><img src="Images/linkedin-tile.svg"></th>
-    <th><img src="Images/medium.svg"></th>
+    <th><img src="Images/manthan logo.png"  height="64" width="64"></th>
+    <th><img src="Images/gmail.png"  height="64" width="64"></th>
+    <th><img src="Images/linkedin-tile.svg"  height="64" width="64"></th>
+    <th><img src="Images/medium.svg"  height="64" width="64"></th>
+    <th><img src="Images/instagram.png"  height="64" width="64"></th>
   </tr>
   <tr>
+    <th>Portfolio</th>
     <th>Gmail</th>
     <th>Linkedin</th> 
     <th>Medium</th>
+    <th>Instagram</th>
   </tr>
 </table>
 
