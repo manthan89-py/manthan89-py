@@ -34,12 +34,14 @@
     <th><img src="Images/pytorch-icon.svg"></th> 
      <th><img src="Images/pandas_white2.svg"></th>
     <th><img src="Images/keras.svg" height="64" width="64"></th>
+    <th><img src="Images/scikit-learn2.svg" height="64" width="64"></th>
   </tr>
   <tr>
     <th>Tensorflow</th>
     <th>PyTorch</th>
     <th>Pandas</th>
     <th>Keras</th>
+    <th>Scikit-Learn</th>
   </tr>
 </table>
 
