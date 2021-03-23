@@ -15,7 +15,7 @@
 
 ## Tools and Technology
 
-### Languages
+### Languages ⭐
 <table>
   <tr>
     <th><img src="Images/python-icon.svg"></th>
@@ -25,9 +25,9 @@
     <th>Python</th>
     <th>Dart</th> 
   </tr>
-</table>
+</table><br>
 
-### Frameworks
+### Frameworks ⭐
 <table>
   <tr>
     <th><img src="Images/tensorflow-icon.svg" height="64" width="64"></th>
@@ -51,9 +51,9 @@
     <th>Seaborn</th>
     <th>Flutter</th>
   </tr>
-</table>
+</table><br>
 
-### Tools & IDE
+### Tools & IDE ⭐
 <table>
   <tr>
     <th><img src="Images/jupyter-icon.svg" height="64" width="64"></th>
@@ -73,9 +73,9 @@
     <th>Anaconda</th>
     <th>Paperspace</th>
   </tr>
-</table>
+</table><br>
 
-### Connect with Me
+### Connect with Me ⭐
 <table>
   <tr>
     <th><img src="Images/manthan logo.jpg"  height="64" width="64"></th>
@@ -91,7 +91,7 @@
     <th>Medium</th>
     <th>Instagram</th>
   </tr>
-</table>
+</table><br>
 
 
 ## Github Stats 📊
