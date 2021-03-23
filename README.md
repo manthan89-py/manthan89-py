@@ -2,10 +2,10 @@
 ## Welcome 🤝 to My Github Profile 🎆🔥
 
 - 🔭 I’m currently working on <b>Data Science, Deep learning, Machine learning</b> and <b>Computer Vision.</b>
-- 🌱 I’m currently learning Artifical Intelligence and Deep learning.
-- 🤔 I’m looking for help with AI , DL, ML, CV.
-- 💬 Ask Me About Machine Learning , Deep learning Basics.
-- 🌟 In My Github You Can Find Projects Related to Machine learning and Deep learning. 
+- 🌱 I’m currently learning <b>Artifical Intelligence and Deep learning.</b>
+- 🤔 I’m looking for help with <b>AI , DL, ML & CV.</b>
+- 💬 Ask Me About <b>Machine Learning , Deep learning Basics.</b>
+- 🌟 In My Github You Can Find <b>Projects</b> Related to <b>Machine learning and Deep learning.</b>
 
 ## Tools and Technology :
 
