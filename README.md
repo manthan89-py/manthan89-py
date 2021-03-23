@@ -1,5 +1,5 @@
-# Hello Developers 🧠
-## Welcome to My Github Profile 🔥
+# Hello 👋 Developers 🧠
+## Welcome 🤝 to My Github Profile 🎆🔥
 
 - 🔭 I’m currently working on Data Science, Deep learning, Machine learning and Computer Vision
 - 🌱 I’m currently learning Artifical Intelligence and Deep learning.
@@ -7,9 +7,9 @@
 - 💬 Ask Me About Machine Learning , Deep learning Basics.
 - 🌟 In My Github You Can Find Projects Related to Machine learning and Deep learning. 
 
-## Tools and Technology
+## Tools and Technology :
 
-### Languages ⭐
+### Languages ⭐ :
 <table>
   <tr>
     <th><a href="https://www.python.org/"><img src="Images/python-icon.svg"></a></th>
@@ -21,7 +21,7 @@
   </tr>
 </table><br>
 
-### Frameworks ⭐
+### Frameworks ⭐ :
 <table>
   <tr>
     <th><a href="https://www.tensorflow.org/" target="_blank"><img src="Images/tensorflow-icon.svg" height="64" width="64"></a></th>
@@ -47,7 +47,7 @@
   </tr>
 </table><br>
 
-### Tools & IDE ⭐
+### Tools & IDE ⭐ :
 <table>
   <tr>
     <th><a href="https://jupyter.org/" target="_blank"><img src="Images/jupyter-icon.svg" height="64" width="64"></a></th>
@@ -69,7 +69,7 @@
   </tr>
 </table><br>
 
-### Connect with Me ⭐
+### Connect with Me ⭐ :
 <table>
   <tr>
     <th><a href="https://manthan-bhikadiya.wixsite.com/profile" target="_blank"><img src="Images/manthan logo.jpg"  height="64" width="64"></a></th>
@@ -88,15 +88,15 @@
 </table><br>
 
 
-## Github Stats 📊
+## Github Stats 📊 :
 <img src="https://camo.githubusercontent.com/b6d1a24405745acf1511652062e2a09a958f79980aa55454a838ec42ef7ef958/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d616e7468616e38392d7079262673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666666666662669636f6e5f636f6c6f723d62623261636626746578745f636f6c6f723d6461663764632662675f636f6c6f723d313531353135">
 
 
-## NOTE 🔴
-➜ If You Like Any of My Repo. Give It ⭐. It Will Motivate Me. <br>
-➜ Please Raise ✋ Issues If Any Have. <br>
-➜ You Can Follow ✅ Me So That You Will Get Informed About My Projects. <br>
-➜ Thank You Very Much ❤️ For Visiting My Profile.
+## NOTE ✍️ :
+- If You Like Any of My Repo. Give It ⭐. It Will Motivate Me. <br>
+- Please Raise ✋ Issues If Any Have. <br>
+- You Can Follow ✅ Me So That You Will Get Informed About My Projects. <br>
+- Thank You Very Much ❤️ For Visiting My Profile.
 
 
 
