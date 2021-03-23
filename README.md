@@ -75,6 +75,20 @@
   </tr>
 </table>
 
+### Connect with Me
+<table>
+  <tr>
+    <th><img src="Images/email_me.svg"></th>
+    <th><img src="Images/linkedin-tile.svg"></th>
+    <th><img src="Images/medium.svg"></th>
+  </tr>
+  <tr>
+    <th>Gmail</th>
+    <th>Linkedin</th> 
+    <th>Medium</th>
+  </tr>
+</table>
+
 
 ## Github Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
