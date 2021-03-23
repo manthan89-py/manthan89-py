@@ -12,7 +12,7 @@
 ### Languages ⭐
 <table>
   <tr>
-    <th><a href="https://www.python.org/" {:target="_blank"}><img src="Images/python-icon.svg"></a></th>
+    <th>[<img src="Images/python-icon.svg">]("https://www.python.org/"){{:target="_blank"}}</th>
     <th><a href="https://dart.dev/" ><img src="Images/dart.svg"></a></th> 
   </tr>
   <tr>
