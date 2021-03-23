@@ -10,7 +10,7 @@
 ## Tools and Technology
 
 ### Languages ⭐
-<table>
+<table style="border:none;">
   <tr>
     <th><a href="https://www.python.org/"><img src="Images/python-icon.svg"></a></th>
     <th><a href="https://dart.dev/"><img src="Images/dart.svg"></a></th> 
@@ -22,7 +22,7 @@
 </table><br>
 
 ### Frameworks ⭐
-<table style="border-collapse: collapse;">
+<table>
   <tr>
     <th><a href="https://www.tensorflow.org/"><img src="Images/tensorflow-icon.svg" height="64" width="64"></a></th>
     <th><a href="https://www.pytorch.org/"><img src="Images/pytorch-icon.svg" height="64" width="64"></a></th> 
