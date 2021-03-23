@@ -14,7 +14,7 @@
   table, tr, td {
     border: none;
 }
-</style>
+<\style>
 <table style="border:none;">
   <tr>
     <th><a href="https://www.python.org/"><img src="Images/python-icon.svg"></a></th>
