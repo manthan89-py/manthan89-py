@@ -33,14 +33,12 @@
     <th><img src="Images/tensorflow-icon.svg"></th>
     <th><img src="Images/pytorch-icon.svg"></th> 
      <th><img src="Images/pandas_white2.svg"></th>
-     <th><img src="Images/scikit-learn.svg"></th>
-    <th><img src="Images/keras.svg"</th>
+    <th><img src="Images/keras.svg" height="64" width="64"></th>
   </tr>
   <tr>
     <th>Tensorflow</th>
     <th>PyTorch</th>
     <th>Pandas</th>
-    <th>Scikit-Learn</th>
     <th>Keras</th>
   </tr>
 </table>
