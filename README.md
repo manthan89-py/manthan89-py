@@ -35,6 +35,10 @@
      <th><img src="Images/pandas_white2.svg"></th>
     <th><img src="Images/keras.svg" height="64" width="64"></th>
     <th><img src="Images/scikit-learn2.svg" height="64" width="64"></th>
+    <th><img src="Images/numpy-icon.svg"></th>
+    <th><img src="Images/Matplotlib_icon.svg"></th>
+    <th><img src="Images/seaborn2.svg"></th>
+    <th><img src="Images/flutter.svg"></th>
   </tr>
   <tr>
     <th>Tensorflow</th>
@@ -42,6 +46,10 @@
     <th>Pandas</th>
     <th>Keras</th>
     <th>Scikit-Learn</th>
+    <th>Numpy</th>
+    <th>Matplotlib</th>
+    <th>Seaborn</th>
+    <th>Numpy</th>
   </tr>
 </table>
 
