@@ -58,14 +58,14 @@
   <tr>
     <th><img src="Images/jupyter-icon.svg" height="64" width="64"></th>
     <th><img src="Images/pycharm.svg" height="64" width="64"></th> 
-     <th><img src="Images/visualstudio_code.svg" height="64" width="64"></th>
+     <th><img src="Images/visual-studio.png" height="64" width="64"></th>
     <th><img src="Images/tableau.svg" height="64" width="64"></th>
     <th><img src="Images/google-colab.png" height="64" width="64"></th>
   </tr>
   <tr>
     <th>Jupyter</th>
     <th>Pycharm</th>
-    <th>Visual Studio Code</th>
+    <th>Visual Studio</th>
     <th>Tableau</th>
     <th>Google Colab</th>
   </tr>
