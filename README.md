@@ -10,7 +10,7 @@
 ## Tools and Technology
 
 ### Languages ⭐
-<table cellspacing="0" cellpadding="0" style="border:none">
+<table cellspacing="0" cellpadding="0" border=none>
   <tr>
     <th><a href="https://www.python.org/"><img src="Images/python-icon.svg"></a></th>
     <th><a href="https://dart.dev/"><img src="Images/dart.svg"></a></th> 
