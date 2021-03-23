@@ -25,7 +25,7 @@
 <table>
   <tr>
     <th><a href="https://www.tensorflow.org/" target="_blank"><img src="Images/tensorflow-icon.svg" height="64" width="64"></a></th>
-    <th><a href="https://www.pytorch.org" target="_blank"><img src="Images/pytorch-icon.svg" height="64" width="64"></a></th> 
+    <th><a href="https://pytorch.org/tutorials/" target="_blank"><img src="Images/pytorch-icon.svg" height="64" width="64"></a></th> 
     <th><a href="https://pandas.pydata.org/" target="_blank"><img src="Images/pandas2.png" height="64" width="68"></a></th>
     <th><a href="https://keras.io/" target="_blank"><img src="Images/keras.svg" height="64" width="64"></a></th>
     <th><a href="https://scikit-learn.org/" target="_blank"><img src="Images/scikit-learn2.svg" height="64" width="64"></a></th>
