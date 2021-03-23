@@ -16,7 +16,7 @@
 ## Tools and Technology
 
 ### Languages
-<table style="color: black" >
+<table border='0'>
   <tr>
     <th><img src="Images/python-icon.svg"></th>
     <th><img src="Images/dart.svg"></th> 
