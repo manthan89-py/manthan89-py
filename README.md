@@ -33,7 +33,7 @@
     <th><img src="Images/tensorflow-icon.svg"></th>
     <th><img src="Images/pytorch-icon.svg"></th> 
      <th><img src="Images/pandas_white2.svg"></th>
-     <th><img src="Images/scikit-learn-logo-small.svg"></th> 
+     <th><img src="Images/scikit-learn.svg"></th> 
   </tr>
   <tr>
     <th>Tensorflow</th>
