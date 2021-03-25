@@ -101,7 +101,7 @@
 
 
 ## Github Stats 📊 :
-<img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=030000">
+<img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=e2703a&icon_color=e2703a&text_color=eeb76b&bg_color=310b0b">
 
 
 ## NOTE ✍️ :
