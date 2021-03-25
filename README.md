@@ -87,17 +87,17 @@
   </tr>
 </table><br>
 
-## Area Of Interest 💥:
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Image Processing
-- Python Programming
-- Data Analysis
-- Buisness Intelligence
-- Flutter App Development
-- Audio Signal Processing
+## Area Of Interest 🏆 🏅 🎖: 
+- Machine Learning 🏆
+- Deep Learning 🏆
+- Natural Language Processing 🏆
+- Computer Vision 🏆
+- Image Processing 🎖
+- Python Programming 🏆
+- Data Analysis 🏅
+- Buisness Intelligence 🎖
+- Flutter App Development 🏅
+- Audio Signal Processing 🎖
 
 
 ## Github Stats 📊 :
