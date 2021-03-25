@@ -87,6 +87,18 @@
   </tr>
 </table><br>
 
+## Area Of Interest 💥:
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Image Processing
+- Python Programming
+- Data Analysis
+- Buisness Intelligence
+- Flutter App Development
+- Audio Signal Processing
+
 
 ## Github Stats 📊 :
 <img src="https://camo.githubusercontent.com/b6d1a24405745acf1511652062e2a09a958f79980aa55454a838ec42ef7ef958/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d616e7468616e38392d7079262673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666666666662669636f6e5f636f6c6f723d62623261636626746578745f636f6c6f723d6461663764632662675f636f6c6f723d313531353135">
