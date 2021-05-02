@@ -1,4 +1,4 @@
-<h1 style="align:center"> Hello 👋 Developers 🧠</h1>
+<h1 align="center"> Hello 👋 Developers 🧠</h1>
 
 ## Welcome 🤝 to My Github Profile 🏟🎆
 
