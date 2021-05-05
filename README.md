@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning <b>Artifical Intelligence and Deep learning.</b>
 - 🤔 I’m looking for help with <b>AI , DL, ML & CV.</b>
 - 💬 Ask Me About <b>Machine Learning , Deep learning Basics.</b>
-- 🌟 In My Github You Can Find <b>Projects</b> Related to <b>Machine learning and Deep learning.</b><br>
+- 🌟 In My Github You Can Find <b>Projects</b> Related to <b>Machine learning and Deep learning.</b>
 
-<h2 align='center'>Tools and Technology :</h2><br>
+<br><h2 align='center'>Tools and Technology :</h2><br>
 
 ### Languages ⭐ :
 <table>
@@ -86,9 +86,9 @@
     <th>Medium</th>
     <th>Instagram</th>
   </tr>
-</table><br>
+</table>
 
-<h2 align='center'> Area Of Interest 🏆 🏅 🎖: </h2><br>
+<br><h2 align='center'> Area Of Interest 🏆 🏅 🎖: </h2><br>
 
 - Machine Learning 🏆
 - Deep Learning 🏆
