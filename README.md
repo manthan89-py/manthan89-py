@@ -89,6 +89,7 @@
 </table><br>
 
 <h2 align='center'> Area Of Interest 🏆 🏅 🎖: </h2>
+
 - Machine Learning 🏆
 - Deep Learning 🏆
 - Natural Language Processing 🏆
