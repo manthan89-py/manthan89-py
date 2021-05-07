@@ -114,8 +114,11 @@
 <a href="https://github.com/manthan89-py/plant-disease-detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=plant-disease-detection" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/manthan89-py/InfyTq-Coding-Questions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=InfyTq-Coding-Questions" />
+</a>
+<a href="https://github.com/manthan89-py/InfyTq-Coding-Questions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=InfyTq-Coding-Questions" />
 </a>
 
 
