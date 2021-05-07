@@ -107,7 +107,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthan89-py)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan89-py&layout=compact&title_color=583d72&icon_color=9f5f80&text_color=1b1a17&bg_color=ffc996)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan89-py&layout=compact&title_color=eac8af&icon_color=9f5f80&text_color=feffde&bg_color=1b2021)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repository 🔥:
 <div>
