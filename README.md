@@ -110,7 +110,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan89-py&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repository 🔥:
-
+<div>
 <a href="https://github.com/manthan89-py/plant-disease-detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=plant-disease-detection" />
 </a>
@@ -118,15 +118,21 @@
 <a href="https://github.com/manthan89-py/InfyTq-Coding-Questions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=InfyTq-Coding-Questions" />
 </a>
+</div>
+
+<div>
 <br>
-<a href="https://github.com/manthan89-py/InfyTq-Coding-Questions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=InfyTq-Coding-Questions" />
+<a href="https://github.com/manthan89-py/Image-Creation-Using-GANs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Image-Creation-Using-GANs" />
 </a>
 &nbsp &nbsp
 <a href="https://github.com/manthan89-py/The-Spark-Foundation-Data-Science-Internship">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=The-Spark-Foundation-Data-Science-Internship" />
 </a>
 <br>
+</div>
+
+<div>
 <a href="https://github.com/manthan89-py/Fake_News_detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Fake_News_detection" />
 </a>
@@ -135,6 +141,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Heart-Disease-Prediction" />
 </a>
 <br>
+</div>
 
 
 ## NOTE ✍️ :
