@@ -107,12 +107,12 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthan89-py)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan89-py&layout=compact&title_color=dbf6e9&icon_color=c31432&text_color=64dfdf&bg_color=240b36)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan89-py&layout=compact&title_color=583d72&icon_color=9f5f80&text_color=1b1a17&bg_color=ffc996)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repository 🔥:
 <div>
 <a href="https://github.com/manthan89-py/plant-disease-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=plant-disease-detection&bg_color=240b36" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=plant-disease-detection&title_color=dbf6e9&icon_color=c31432&text_color=64dfdf&bg_color=240b36" />
 </a>
 &nbsp &nbsp
 <a href="https://github.com/manthan89-py/InfyTq-Coding-Questions">
