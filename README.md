@@ -106,17 +106,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=dbf6e9&icon_color=c31432&text_color=64dfdf&bg_color=240b36">
 
 
-<p align="center"> 
- <br><h2 align='center'> Visitor Counter ✅ :</h2><br><br>
-  <img src="https://profile-counter.glitch.me/manthan89-py/count.svg" />
-</p>
-
-
 <br><h2 align='center'>NOTE ✍️ :</h2><br>
 - If You Like Any of My Repo. Give It ⭐. It Will Motivate Me. <br>
 - Please Raise ✋ Issues If Any Have. <br>
 - You Can Follow ✅ Me So That You Will Get Informed About My Projects. <br>
 - Thank You Very Much ❤️ For Visiting My Profile.
+
+<p align="center"> 
+ <br>Visitor Counter ✅ :<br>
+  <img src="https://profile-counter.glitch.me/manthan89-py/count.svg" />
+</p>
+
 
 
 
