@@ -116,18 +116,18 @@
 </a>
 &nbsp &nbsp
 <a href="https://github.com/manthan89-py/InfyTq-Coding-Questions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=InfyTq-Coding-Questions&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=312c51" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=InfyTq-Coding-Questions&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 </div>
 
 <div>
 <br>
 <a href="https://github.com/manthan89-py/Image-Creation-Using-GANs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Image-Creation-Using-GANs&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=312c51" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Image-Creation-Using-GANs&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 &nbsp &nbsp
 <a href="https://github.com/manthan89-py/The-Spark-Foundation-Data-Science">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=The-Spark-Foundation-Data-Science&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=312c51" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=The-Spark-Foundation-Data-Science&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 <br>
 </div>
@@ -135,11 +135,11 @@
 <div>
  <br>
 <a href="https://github.com/manthan89-py/Fake_News_detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Fake_News_detection&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=312c51" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Fake_News_detection&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 &nbsp &nbsp
 <a href="https://github.com/manthan89-py/Heart-Disease-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Heart-Disease-Prediction&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=312c51" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Heart-Disease-Prediction&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 <br>
 </div>
