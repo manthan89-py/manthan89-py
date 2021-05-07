@@ -70,24 +70,6 @@
   </tr>
 </table><br>
 
-### Connect with Me ⭐ :
-<table>
-  <tr>
-    <th><a href="https://manthan-bhikadiya.wixsite.com/profile" target="_blank"><img src="Images/manthan logo.jpg"  height="64" width="64"></a></th>
-    <th><a href="mailto: bhikadiyamanthan@gmail.com" target="_blank"><img src="Images/Gmail-Logo..svg"  height="64" width="64"></a></th>
-    <th><a href="https://www.linkedin.com/in/manthanbhikadiya" target="_blank"><img src="Images/linkedin-tile.svg"  height="64" width="64"></a></th>
-    <th><a href="https://manthan-bhikadiya.medium.com/" target="_blank"><img src="Images/medium.svg"  height="64" width="64"></a></th>
-    <th><a href="https://www.instagram.com/manthan.bhikadiya" target="_blank"><img src="Images/instagram.png"  height="64" width="64"></a></th>
-  </tr>
-  <tr>
-    <th>Portfolio</th>
-    <th>Gmail</th>
-    <th>Linkedin</th> 
-    <th>Medium</th>
-    <th>Instagram</th>
-  </tr>
-</table><br>
-
 ## Area Of Interest 🏆 🏅 🎖: 
 
 - Machine Learning 🏆
@@ -101,10 +83,7 @@
 - Flutter App Development 🏅
 - Audio Signal Processing 🎖
 
-
 <br>
-
-
 
 ## Github Stats 📊 :
 <img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=dbf6e9&icon_color=c31432&text_color=64dfdf&bg_color=240b36">
@@ -112,6 +91,8 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthan89-py&bg_color=272343)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan89-py&layout=compact&title_color=eac8af&icon_color=9f5f80&text_color=feffde&bg_color=132743)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 ## Repository 🔥:
 <div>
@@ -147,6 +128,25 @@
 </a>
 <br>
 </div><br>
+
+
+## Connect with Me ⭐ :
+<table>
+  <tr>
+    <th><a href="https://manthan-bhikadiya.wixsite.com/profile" target="_blank"><img src="Images/manthan logo.jpg"  height="64" width="64"></a></th>
+    <th><a href="mailto: bhikadiyamanthan@gmail.com" target="_blank"><img src="Images/Gmail-Logo..svg"  height="64" width="64"></a></th>
+    <th><a href="https://www.linkedin.com/in/manthanbhikadiya" target="_blank"><img src="Images/linkedin-tile.svg"  height="64" width="64"></a></th>
+    <th><a href="https://manthan-bhikadiya.medium.com/" target="_blank"><img src="Images/medium.svg"  height="64" width="64"></a></th>
+    <th><a href="https://www.instagram.com/manthan.bhikadiya" target="_blank"><img src="Images/instagram.png"  height="64" width="64"></a></th>
+  </tr>
+  <tr>
+    <th>Portfolio</th>
+    <th>Gmail</th>
+    <th>Linkedin</th> 
+    <th>Medium</th>
+    <th>Instagram</th>
+  </tr>
+</table><br>
 
 
 ## NOTE ✍️ :
