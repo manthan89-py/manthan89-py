@@ -133,6 +133,7 @@
 </div>
 
 <div>
+ <br>
 <a href="https://github.com/manthan89-py/Fake_News_detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Fake_News_detection" />
 </a>
