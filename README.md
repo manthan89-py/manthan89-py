@@ -107,6 +107,8 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthan89-py)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan89-py&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## NOTE ✍️ :
 - If You Like Any of My Repo. Give It ⭐. It Will Motivate Me. <br>
