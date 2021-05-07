@@ -151,8 +151,8 @@
 - You Can Follow ✅ Me So That You Will Get Informed About My Projects. <br>
 - Thank You Very Much ❤️ For Visiting My Profile.
 
+### Visior Counter ❤️
 <p align="left"> 
- <br>Visitor Counter ✅ :<br>
   <img src="https://profile-counter.glitch.me/manthan89-py/count.svg" />
 </p>
 
