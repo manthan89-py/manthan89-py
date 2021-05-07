@@ -112,7 +112,7 @@
 ## Repository 🔥:
 <div>
 <a href="https://github.com/manthan89-py/plant-disease-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=plant-disease-detection" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=plant-disease-detection&bg_color=240b36" />
 </a>
 &nbsp &nbsp
 <a href="https://github.com/manthan89-py/InfyTq-Coding-Questions">
