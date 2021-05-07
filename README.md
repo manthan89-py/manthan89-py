@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning <b>Artifical Intelligence and Deep learning.</b>
 - 🤔 I’m looking for help with <b>AI , DL, ML & CV.</b>
 - 💬 Ask Me About <b>Machine Learning , Deep learning Basics.</b>
-- 🌟 In My Github You Can Find <b>Projects</b> Related to <b>Machine learning and Deep learning.</b>
+- 🌟 In My Github You Can Find <b>Projects</b> Related to <b>Machine learning and Deep learning.</b><br>
 
 ## Tools and Technology :
 
@@ -86,7 +86,7 @@
     <th>Medium</th>
     <th>Instagram</th>
   </tr>
-</table>
+</table><br>
 
 ## Area Of Interest 🏆 🏅 🎖: 
 
@@ -100,6 +100,10 @@
 - Buisness Intelligence 🎖
 - Flutter App Development 🏅
 - Audio Signal Processing 🎖
+
+
+<br>
+
 
 
 ## Github Stats 📊 :
@@ -142,7 +146,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Heart-Disease-Prediction&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 <br>
-</div>
+</div><br>
 
 
 ## NOTE ✍️ :
@@ -150,6 +154,9 @@
 - Please Raise ✋ Issues If Any Have. <br>
 - You Can Follow ✅ Me So That You Will Get Informed About My Projects. <br>
 - Thank You Very Much ❤️ For Visiting My Profile.
+
+<br>
+
 
 ### Visior Counter ❤️
 <p align="left"> 
