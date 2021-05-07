@@ -8,7 +8,7 @@
 - 💬 Ask Me About <b>Machine Learning , Deep learning Basics.</b>
 - 🌟 In My Github You Can Find <b>Projects</b> Related to <b>Machine learning and Deep learning.</b>
 
-<br><h2 align='center'>Tools and Technology :</h2><br>
+<h2 align='center'>Tools and Technology :</h2><br>
 
 ### Languages ⭐ :
 <table>
@@ -88,7 +88,7 @@
   </tr>
 </table>
 
-<br><h2 align='center'> Area Of Interest 🏆 🏅 🎖: </h2><br>
+<h2 align='center'> Area Of Interest 🏆 🏅 🎖: </h2><br>
 
 - Machine Learning 🏆
 - Deep Learning 🏆
@@ -102,13 +102,13 @@
 - Audio Signal Processing 🎖
 
 
-<br><h2 align='center'> Github Stats 📊 :</h2><br>
+<h2 align='center'> Github Stats 📊 :</h2><br>
 <img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=dbf6e9&icon_color=c31432&text_color=64dfdf&bg_color=240b36">
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthan89-py)
 
 
-<br><h2 align='center'>NOTE ✍️ :</h2><br>
+<h2 align='center'>NOTE ✍️ :</h2><br>
 - If You Like Any of My Repo. Give It ⭐. It Will Motivate Me. <br>
 - Please Raise ✋ Issues If Any Have. <br>
 - You Can Follow ✅ Me So That You Will Get Informed About My Projects. <br>
