@@ -8,7 +8,7 @@
 - 💬 Ask Me About <b>Machine Learning , Deep learning Basics.</b>
 - 🌟 In My Github You Can Find <b>Projects</b> Related to <b>Machine learning and Deep learning.</b>
 
-<h2 style="color:ffce76"> Tools and Technology :<h2>
+## Tools and Technology :
 
 ### Languages ⭐ :
 <table>
