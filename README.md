@@ -105,6 +105,8 @@
 <br><h2 align='center'> Github Stats 📊 :</h2><br>
 <img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=dbf6e9&icon_color=c31432&text_color=64dfdf&bg_color=240b36">
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthan89-py)
+
 
 <br><h2 align='center'>NOTE ✍️ :</h2><br>
 - If You Like Any of My Repo. Give It ⭐. It Will Motivate Me. <br>
