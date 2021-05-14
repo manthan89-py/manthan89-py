@@ -158,7 +158,7 @@
 <br>
 
 
-### Visior Counter ❤️
+### Visitor Counter ❤️
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/manthan89-py/count.svg" />
 </p>
