@@ -47,7 +47,7 @@
   </table><br>
   <table>
   <tr>
-    <th><a href="https://flutter.dev/" target="_blank"><img src="Images/flutter.svg" height="64" width="64"></a></th>
+    <th><a href="https://flutter.dev/" target="_blank"><img src="Images/flutter.svg" height="64" width="66"></a></th>
     <th><a href="https://docs.opencv.org/master/"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" height="64" width="64"></a></th>
     <th><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="Images/flask.png" height="64" width="68"></a></th>
     <th><a href="https://www.scipy.org/docs.html" target="_blank"><img src="Images/scipy.png" height="64" width="64"></a></th>
