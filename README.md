@@ -44,10 +44,7 @@
     <th>Matplotlib</th>
     <th>Seaborn</th>
   </tr>
-  </table>
-  
-  <br>
-  
+  </table><br>
   <table>
   <tr>
     <th><a href="https://flutter.dev/" target="_blank"><img src="Images/flutter.svg" height="64" width="64"></a></th>
