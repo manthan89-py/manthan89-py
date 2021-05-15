@@ -32,6 +32,7 @@
     <th><a href="https://scikit-learn.org/" target="_blank"><img src="Images/scikit-learn2.svg" height="64" width="64"></a></th>
     <th><a href="https://numpy.org/" target="_blank"><img src="Images/numpy-icon.svg" height="64" width="64"></a></th>
     <th><a href="https://matplotlib.org/" target="_blank"><img src="Images/Matplotlib_icon.svg" height="64" width="64"></a></th>
+     <th><a href="https://seaborn.pydata.org/" target="_blank"><img src="Images/seaborn2.svg" height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Tensorflow</th>
@@ -41,17 +42,20 @@
     <th>Scikit-Learn</th>
     <th>Numpy</th>
     <th>Matplotlib</th>
+    <th>Seaborn</th>
   </tr>
-  &nbsp&nbsp
+  </table>
+  
+  <br>
+  
+  <table>
   <tr>
-    <th><a href="https://seaborn.pydata.org/" target="_blank"><img src="Images/seaborn2.svg" height="64" width="64"></a></th>
     <th><a href="https://flutter.dev/" target="_blank"><img src="Images/flutter.svg" height="64" width="64"></a></th>
     <th><a href="https://docs.opencv.org/master/"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" height="64" width="64"></a></th>
     <th><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="Images/flask.png" height="68" width="64"></a></th>
     <th><a href="https://www.scipy.org/docs.html" target="_blank"><img src="Images/scipy.png" height="64" width="68"></a></th>
   </tr>
   <tr>
-    <th>Seaborn</th>
     <th>Flutter</th>
     <th>OpenCV</th>
     <th>Flask</th>
