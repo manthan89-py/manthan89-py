@@ -60,6 +60,7 @@
     <th><a href="https://colab.research.google.com/" target="_blank"><img src="Images/google-colab.png" height="64" width="64"></a></th>
     <th><a href="https://www.anaconda.com/" target="_blank"><img src="Images/anaconda.png" height="64" width="64"></a></th>
     <th><a href="https://www.paperspace.com/" target="_blank"><img src="Images/paperspace2.jpg" height="64" width="64"></a></th>
+    <th><a href="https://git-scm.com/doc" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Jupyter</th>
@@ -69,6 +70,7 @@
     <th>Google Colab</th>
     <th>Anaconda</th>
     <th>Paperspace</th>
+    <th>Git</th>
   </tr>
 </table><br>
 
