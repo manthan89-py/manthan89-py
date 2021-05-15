@@ -34,7 +34,7 @@
     <th><a href="https://matplotlib.org/" target="_blank"><img src="Images/Matplotlib_icon.svg" height="64" width="64"></a></th>
     <th><a href="https://seaborn.pydata.org/" target="_blank"><img src="Images/seaborn2.svg" height="64" width="64"></a></th>
     <th><a href="https://flutter.dev/" target="_blank"><img src="Images/flutter.svg" height="64" width="64"></a></th>
-     <th><a href="https://docs.opencv.org/master/" target="_blank"><img src="Images/opencv-logo.png" height="64" width="64"></a></th>
+     <th><a href="https://docs.opencv.org/master/" target="_blank"><img src="Images/opencv-logo.png" height="64" width="68"></a></th>
   </tr>
   <tr>
     <th>Tensorflow</th>
@@ -46,6 +46,7 @@
     <th>Matplotlib</th>
     <th>Seaborn</th>
     <th>Flutter</th>
+    <th>OpenCV</th>
   </tr>
 </table><br>
 
