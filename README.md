@@ -34,7 +34,7 @@
     <th><a href="https://matplotlib.org/" target="_blank"><img src="Images/Matplotlib_icon.svg" height="64" width="64"></a></th>
     <th><a href="https://seaborn.pydata.org/" target="_blank"><img src="Images/seaborn2.svg" height="64" width="64"></a></th>
     <th><a href="https://flutter.dev/" target="_blank"><img src="Images/flutter.svg" height="64" width="64"></a></th>
-     <th><a href="https://docs.opencv.org/master/" target="_blank"><img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" height="64" width="68"></a></th>
+     <th><a href="https://docs.opencv.org/master/" target="_blank"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Tensorflow</th>
