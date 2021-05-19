@@ -170,12 +170,6 @@
 
 <br>
 
-
-<script src="https://embed.github.com/view/3d/manthan89-py/manthan89-py/main/manthan89-py-2020.stl">
-</script>
-
-
-
 ### Visitor Counter ❤️
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/manthan89-py/count.svg" />
