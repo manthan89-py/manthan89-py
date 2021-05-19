@@ -171,7 +171,8 @@
 <br>
 
 
-<script src="https://embed.github.com/view/3d/manthan89-py/manthan89-py/main/manthan89-py-2020.stl"></script>
+<script src="https://embed.github.com/view/3d/manthan89-py/manthan89-py/main/manthan89-py-2020.stl">
+</script>
 
 
 
