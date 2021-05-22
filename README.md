@@ -124,8 +124,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Image-Creation-Using-GANs&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 &nbsp &nbsp
-<a href="https://github.com/manthan89-py/The-Spark-Foundation-Data-Science">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=The-Spark-Foundation-Data-Science&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
+<a href="https://github.com/manthan89-py/OpenCV-Python-Tutorials">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=OpenCV-Python-Tutorials&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 <br>
 </div>
