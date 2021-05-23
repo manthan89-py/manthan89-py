@@ -14,7 +14,7 @@
   <tr>
     <th><a href="https://www.python.org/"><img src="Images/python-icon.svg"></a></th>
     <th><a href="https://dart.dev/" ><img src="Images/dart.svg"></a></th>
-     <th><a href="https://docs.julialang.org/en/v1/"><img src="Images/julia-language-icon.svg"></a></th>
+     <th><a href="https://docs.julialang.org/en/v1/"><img src="Images/julia-language-icon.svg" height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Python</th>
