@@ -13,11 +13,13 @@
 <table>
   <tr>
     <th><a href="https://www.python.org/"><img src="Images/python-icon.svg"></a></th>
-    <th><a href="https://dart.dev/" ><img src="Images/dart.svg"></a></th> 
+    <th><a href="https://dart.dev/" ><img src="Images/dart.svg"></a></th>
+     <th><a href="https://docs.julialang.org/en/v1/"><img src="Images/julia-language-icon.svg"></a></th>
   </tr>
   <tr>
     <th>Python</th>
     <th>Dart</th> 
+    <th>Julia</th> 
   </tr>
 </table><br>
 
@@ -64,24 +66,34 @@
   <tr>
     <th><a href="https://jupyter.org/" target="_blank"><img src="Images/jupyter-icon.svg" height="64" width="64"></a></th>
     <th><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="Images/pycharm.svg" height="64" width="64"></a></th> 
-    <th><a href="https://code.visualstudio.com/" target="_blank"><img src="Images/visual-studio.png" height="64" width="64"></a></th>
+    <th><a href="https://code.visualstudio.com/download" target="_blank"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="64" width="64"></a></th>
     <th><a href="https://www.tableau.com/" target="_blank"><img src="Images/tableau.svg" height="64" width="64"></a></th>
     <th><a href="https://colab.research.google.com/" target="_blank"><img src="Images/google-colab.png" height="64" width="64"></a></th>
     <th><a href="https://www.anaconda.com/" target="_blank"><img src="Images/anaconda.png" height="64" width="64"></a></th>
     <th><a href="https://www.paperspace.com/" target="_blank"><img src="Images/paperspace2.jpg" height="64" width="64"></a></th>
-    <th><a href="https://git-scm.com/doc" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Jupyter</th>
     <th>Pycharm</th>
-    <th>Visual Studio</th>
+    <th>VS Code</th>
     <th>Tableau</th>
     <th>Google Colab</th>
     <th>Anaconda</th>
     <th>Paperspace</th>
-    <th>Git</th>
+    
   </tr>
-</table><br>
+</table>
+<table>
+  <tr>
+    <th><a href="https://git-scm.com/doc" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="64" width="64"></a></th>
+    <th><a href="https://code.visualstudio.com/insiders/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" height="64" width="64"></a></th>
+  </tr>
+  <tr>
+    <th>Git</th>
+    <th>VS Insiders</th>
+  </tr>
+</table>
+<br>
 
 ## Area Of Interest 🏆 🏅 🎖: 
 
