@@ -22,7 +22,7 @@
     <th>Julia</th> 
   </tr>
 </table><br>
-,.
+
 ### Frameworks ⭐ :
 <table>
   <tr>
