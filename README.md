@@ -113,8 +113,6 @@
 ## Github Stats 📊 :
 <img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=dbf6e9&icon_color=c31432&text_color=64dfdf&bg_color=240b36">
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthan89-py&bg_color=272343)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan89-py&layout=compact&title_color=eac8af&icon_color=9f5f80&text_color=feffde&bg_color=132743)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
