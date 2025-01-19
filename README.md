@@ -1,192 +1,118 @@
-# Hello 👋 Developers 🧠
+# 👋 Hello, I'm Manthan 
+### AI/ML Engineer | LLM & GenAI Specialist | Software Engineer II at Bristol Myers Squibb 🚀
 
-## Welcome 🤝 to My Github Profile 🏟🎆
-- 🔭 I’m currently working on <b>Data Science, Deep learning, Machine learning</b> and <b>Computer Vision.</b>
-- 🌱 I’m currently learning <b>Artifical Intelligence and Deep learning.</b>
-- 🤔 I’m looking for help with <b>AI , DL, ML & CV.</b>
-- 💬 Ask Me About <b>Machine Learning , Deep learning Basics.</b>
-- 🌟 In My Github You Can Find <b>Projects</b> Related to <b>Machine learning and Deep learning.</b><br>
+> Transforming ideas into AI realities through code and innovation.
 
-## Tools and Technology :
+## 🎯 What I'm Up To
+- 🤖 Specializing in **Large Language Models**, **Generative AI**, and **AI Agents**
+- 🔬 Researching and implementing cutting-edge AI solutions in healthcare
+- 🌱 Building scalable AI/ML pipelines and architectures
+- 👥 Open to collaboration on innovative AI projects
+- 📚 Exploring the path to Artificial General Intelligence (AGI)
 
-### Languages ⭐ :
-<table>
-  <tr>
-    <th><a href="https://www.python.org/"><img src="Images/python-icon.svg"></a></th>
-    <th><a href="https://dart.dev/" ><img src="Images/dart.svg"></a></th>
-     <th><a href="https://docs.julialang.org/en/v1/"><img src="Images/julia-language-icon.svg" height="64" width="64"></a></th>
-  </tr>
-  <tr>
-    <th>Python</th>
-    <th>Dart</th> 
-    <th>Julia</th> 
-  </tr>
-</table><br>
+## 🛠️ Technology Arsenal
 
-### Frameworks ⭐ :
-<table>
-  <tr>
-    <th><a href="https://www.tensorflow.org/" target="_blank"><img src="Images/tensorflow-icon.svg" height="64" width="64"></a></th>
-    <th><a href="https://pytorch.org/tutorials/" target="_blank"><img src="Images/pytorch-icon.svg" height="64" width="64"></a></th> 
-    <th><a href="https://pandas.pydata.org/" target="_blank"><img src="Images/pandas2.png" height="64" width="68"></a></th>
-    <th><a href="https://keras.io/" target="_blank"><img src="Images/keras.svg" height="64" width="64"></a></th>
-    <th><a href="https://scikit-learn.org/" target="_blank"><img src="Images/scikit-learn2.svg" height="64" width="64"></a></th>
-    <th><a href="https://numpy.org/" target="_blank"><img src="Images/numpy-icon.svg" height="64" width="64"></a></th>
-    <th><a href="https://matplotlib.org/" target="_blank"><img src="Images/Matplotlib_icon.svg" height="64" width="64"></a></th>
-     <th><a href="https://seaborn.pydata.org/" target="_blank"><img src="Images/seaborn2.svg" height="64" width="64"></a></th>
-  </tr>
-  <tr>
-    <th>Tensorflow</th>
-    <th>PyTorch</th>
-    <th>Pandas</th>
-    <th>Keras</th>
-    <th>Scikit-Learn</th>
-    <th>Numpy</th>
-    <th>Matplotlib</th>
-    <th>Seaborn</th>
-  </tr>
-  </table><br>
-  <table>
-  <tr>
-    <th><a href="https://flutter.dev/" target="_blank"><img src="Images/flutter.svg" height="64" width="64"></a></th>
-    <th><a href="https://docs.opencv.org/master/"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" height="64" width="64"></a></th>
-    <th><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="Images/flask.png" height="64" width="68"></a></th>
-    <th><a href="https://www.scipy.org/docs.html" target="_blank"><img src="Images/scipy.png" height="64" width="64"></a></th>
-  </tr>
-  <tr>
-    <th>Flutter</th>
-    <th>OpenCV</th>
-    <th>Flask</th>
-    <th>Scipy</th>
-  </tr>
-</table><br>
+### 🧠 AI/ML Ecosystem
+```
+LLM & GenAI Tools   │  ML Frameworks       │  Data Science
+────────────────────────────────────────────────────────────
+▣ LangChain         │  ▣ PyTorch           │  ▣ NumPy
+▣ CrewAI            │  ▣ TensorFlow        │  ▣ Pandas
+▣ LangGraph         │  ▣ Keras             │  ▣ Scikit-learn
+▣ Phidata           │  ▣ Transformers      │  ▣ SciPy
+```
 
-### Tools & IDE ⭐ :
-<table>
-  <tr>
-    <th><a href="https://jupyter.org/" target="_blank"><img src="Images/jupyter-icon.svg" height="64" width="64"></a></th>
-    <th><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="Images/pycharm.svg" height="64" width="64"></a></th> 
-    <th><a href="https://code.visualstudio.com/download" target="_blank"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="64" width="64"></a></th>
-    <th><a href="https://www.tableau.com/" target="_blank"><img src="Images/tableau.svg" height="64" width="64"></a></th>
-    <th><a href="https://colab.research.google.com/" target="_blank"><img src="Images/google-colab.png" height="64" width="64"></a></th>
-    <th><a href="https://www.anaconda.com/" target="_blank"><img src="Images/anaconda.png" height="64" width="64"></a></th>
-    <th><a href="https://www.paperspace.com/" target="_blank"><img src="Images/paperspace2.jpg" height="64" width="64"></a></th>
-  </tr>
-  <tr>
-    <th>Jupyter</th>
-    <th>Pycharm</th>
-    <th>VS Code</th>
-    <th>Tableau</th>
-    <th>Google Colab</th>
-    <th>Anaconda</th>
-    <th>Paperspace</th>
-    
-  </tr>
-</table>
-<table>
-  <tr>
-    <th><a href="https://git-scm.com/doc" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="64" width="64"></a></th>
-    <th><a href="https://code.visualstudio.com/insiders/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" height="64" width="64"></a></th>
-  </tr>
-  <tr>
-    <th>Git</th>
-    <th>VS Insiders</th>
-  </tr>
-</table>
-<br>
+### 🔧 Development Stack
+```
+Backend             │  Frontend           │  DevOps & Tools
+────────────────────────────────────────────────────────────
+▣ FastAPI           │  ▣ ReactJS          │  ▣ Docker
+▣ Django            │  ▣ Streamlit        │  ▣ Git
+▣ Flask             │  ▣ Gradio           │  ▣ MLflow
+▣ PostgreSQL        │  ▣ Plotly           │  ▣ DVC
+```
 
-## Area Of Interest 🏆 🏅 🎖: 
+### 🎨 Visualization & Analysis
+```
+Data Visualization │  Computer Vision        │  NLP Tools
+────────────────────────────────────────────────────────────
+▣ Matplotlib       │  ▣ OpenCV               │  ▣ spaCy
+▣ Seaborn          │  ▣ PIL                  │  ▣ NLTK
+▣ Plotly           │  ▣ Scikit-Learn Image   │  ▣ Hugging Face
+▣ Bokeh            │  ▣ MediaPipe            │  ▣ Tokenizers
+```
 
-- Machine Learning 🏆
-- Deep Learning 🏆
-- Natural Language Processing 🏆
-- Computer Vision 🏆
-- Image Processing 🎖
-- Python Programming 🏆
-- Data Analysis 🏅
-- Buisness Intelligence 🎖
-- Flutter App Development 🏅
-- Audio Signal Processing 🎖
+### 🚀 ML Deployment & Scaling
+```
+Model Serving      │  Monitoring     │  Infrastructure
+────────────────────────────────────────────────────────────
+▣ BentoML          │  ▣ MLflow       │  ▣ AWS
+-                  |  ▣ Grafana      |  ▣ GCP
+```
 
-<br>
+### 💻 Expertise Level
+```python
+{
+    "Expert":        ["Python", "AI ML Development"],
+    "Intermediate":  ["Backend Development", "Visualization &  Analysis",],
+    "Learning":      ["Model Serving", "Model Deployment", "Monitoring Tools"]
+}
+```
 
-## Github Stats 📊 :
-<img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=dbf6e9&icon_color=c31432&text_color=64dfdf&bg_color=240b36">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan89-py&layout=compact&title_color=eac8af&icon_color=9f5f80&text_color=feffde&bg_color=132743)](https://github.com/anuraghazra/github-readme-stats)
+## 🎓 Core Expertise Areas
 
-<br>
+```mermaid
+mindmap
+  root((AI Expertise))
+    LLM and GenAI
+      Prompt Engineering
+      Fine-tuning
+      RAG Systems
+    AI Agents
+      Multi-agent Systems
+      Autonomous Agents
+      Agent Orchestration
+    Traditional ML/DL
+      Computer Vision
+      Natural Language Processing
+      Time Series
+    MLOps
+      Pipeline Design
+      Model Deployment
+      Cloud Infrastructure & Monitoring
+    Software Developlemt
+      API Development
+      Database Management
+      Basic UI Development
+```
 
-## Repository 🔥:
-<div>
-<a href="https://github.com/manthan89-py/plant-disease-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=plant-disease-detection&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
-</a>
-&nbsp &nbsp
-<a href="https://github.com/manthan89-py/InfyTq-Coding-Questions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=InfyTq-Coding-Questions&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
-</a>
+## 🎯 Project Focus Areas
+
+```mermaid
+pie title Current Project Distribution
+    "LLM Applications" : 30
+    "Generative AI" : 10 
+    "AI Agents" : 30
+    "Full Stack AI Application" : 20
+    "Traditional ML" : 10
+```
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://manthan-bhikadiya.wixsite.com/profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthanbhikadiya)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://manthan-bhikadiya.medium.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhikadiyamanthan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manthan89-py)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+
 </div>
 
-<div>
-<br>
-<a href="https://github.com/manthan89-py/Image-Creation-Using-GANs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Image-Creation-Using-GANs&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
-</a>
-&nbsp &nbsp
-<a href="https://github.com/manthan89-py/OpenCV-Python-Tutorials">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=OpenCV-Python-Tutorials&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
-</a>
-<br>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=manthan89-py&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+
 </div>
-
-<div>
- <br>
-<a href="https://github.com/manthan89-py/Fake_News_detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Fake_News_detection&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
-</a>
-&nbsp &nbsp
-<a href="https://github.com/manthan89-py/Heart-Disease-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Heart-Disease-Prediction&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
-</a>
-<br>
-</div><br>
-
-
-## Connect with Me ⭐ :
-<table>
-  <tr>
-    <th><a href="https://manthan-bhikadiya.wixsite.com/profile" target="_blank"><img src="Images/manthan logo.jpg"  height="64" width="64"></a></th>
-    <th><a href="mailto: bhikadiyamanthan@gmail.com" target="_blank"><img src="Images/Gmail-Logo..svg"  height="64" width="64"></a></th>
-    <th><a href="https://www.linkedin.com/in/manthanbhikadiya" target="_blank"><img src="Images/linkedin-tile.svg"  height="64" width="64"></a></th>
-    <th><a href="https://manthan-bhikadiya.medium.com/" target="_blank"><img src="Images/medium.svg"  height="64" width="64"></a></th>
-    <th><a href="https://www.instagram.com/manthan.bhikadiya" target="_blank"><img src="Images/instagram.png"  height="64" width="64"></a></th>
-  </tr>
-  <tr>
-    <th>Portfolio</th>
-    <th>Gmail</th>
-    <th>Linkedin</th> 
-    <th>Medium</th>
-    <th>Instagram</th>
-  </tr>
-</table><br>
-
-
-## NOTE ✍️ :
-- If You Like Any of My Repo. Give It ⭐. It Will Motivate Me. <br>
-- Please Raise ✋ Issues If Any Have. <br>
-- You Can Follow ✅ Me So That You Will Get Informed About My Projects. <br>
-- Thank You Very Much ❤️ For Visiting My Profile.
-
-<br>
-
-### Visitor Counter ❤️
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/manthan89-py/count.svg" />
-</p>
-
-
-
-
-
-
